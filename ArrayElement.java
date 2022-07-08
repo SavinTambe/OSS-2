@@ -1,3 +1,5 @@
+//Hi Shaibaz, Savin here.
+
 import java.util.Scanner;
 
 public class ArrayElement {
@@ -29,7 +31,7 @@ public class ArrayElement {
 		}
 		finally
 		{
-			System.out.println("completed");// haa bhai haa 
+			System.out.println("completed");
 		}
 
 	}
